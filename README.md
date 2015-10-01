@@ -8,3 +8,4 @@ https://www.dropbox.com/sh/k58bi01bgf7uyls/AACj6DAnebt7lFcYfXIDzdxBa/MOD003263%2
 
 Once we look at how the current program works we can then discuss further improvements or changes to be made to the Patient Monitoring app. Please feel free to comment and discuss any ideas here on GitHub. Submit improvements, ideas and designs on how we could meet the app requirements.
 
+Any questions submit them on here.
