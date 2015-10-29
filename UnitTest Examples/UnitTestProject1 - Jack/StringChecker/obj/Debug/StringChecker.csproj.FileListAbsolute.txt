@@ -1,0 +1,6 @@
+h:\my documents\visual studio 2012\Projects\UnitTestProject1\StringChecker\obj\Debug\StringChecker.csprojResolveAssemblyReference.cache
+h:\my documents\visual studio 2012\Projects\UnitTestProject1\StringChecker\bin\Debug\StringChecker.exe.config
+h:\my documents\visual studio 2012\Projects\UnitTestProject1\StringChecker\bin\Debug\StringChecker.exe
+h:\my documents\visual studio 2012\Projects\UnitTestProject1\StringChecker\bin\Debug\StringChecker.pdb
+h:\my documents\visual studio 2012\Projects\UnitTestProject1\StringChecker\obj\Debug\StringChecker.exe
+h:\my documents\visual studio 2012\Projects\UnitTestProject1\StringChecker\obj\Debug\StringChecker.pdb
